@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+opencv-python
+ultralytics
+numpy
+pandas
+requests
+bcrypt
+sqlite3
+Pillow
